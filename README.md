@@ -30,7 +30,7 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 | **Backend & Web** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | **Segurança & IA** | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-darkred?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white) |
 | **DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
@@ -51,8 +51,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=gustavorosarionunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Gustavo's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gustavorosarionunes&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=gustavorosarionunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" alt="Gustavo's GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gustavorosarionunes&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html" alt="Top Languages" />
 </div>
 
 <br>
