@@ -51,9 +51,11 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavorosarionunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Gustavo's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorosarionunes&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=gustavorosarionunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Gustavo's GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gustavorosarionunes&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorosarionunes&theme=tokyonight" alt="GitHub Streak" />
